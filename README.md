@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="center">▸ INDKRYPT — Bug Bounty & Red Team</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=%3E+Indkrypt+%7C+Recon+%E2%80%A2+Fuzz+%E2%80%A2+Exploit+%E2%80%A2+Report;Working+on+authorized+scopes+%E2%9A%A1%EF%B8%8F;Responsible+Disclosure+Only" alt="typing" />
