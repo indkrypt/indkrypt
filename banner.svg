@@ -36,7 +36,7 @@
   </g>
 
   <!-- center title -->
-  <g transform="translate(230,68)">
+  <g transform="translate(200,68)">
     <text x="0" y="0" font-family="Fira Code,monospace" font-weight="800" font-size="44" fill="#d9f6ef">
       INDKRYPT <tspan fill="#00ff9f">|</tspan> Bug Bounty &amp; Red Team
     </text>
