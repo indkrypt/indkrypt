@@ -151,10 +151,7 @@
       <rect x="160" y="14" width="18" height="18" rx="3" fill="#00b7ff" opacity="0.85">
         <animate attributeName="y" dur="2.4s" values="14;88;14" repeatCount="indefinite" begin="0.4s"/>
       </rect>
-    </g>
-
-    <text x="10" y="170" font-family="monospace" font-size="11" fill="#8bd9c9" opacity="0.72">live: safe / sandbox / in-scope</text>
-  </g>
+  
 
   <!-- footer line -->
   <rect x="0" y="250" width="1200" height="2" fill="#00ff9f" opacity="0.06"/>
