@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/indkrypt/indkrypt/blob/main/banner.svg" alt="Indkrypt hacker banner" />
+  <img src="https://raw.githubusercontent.com/indkrypt/indkrypt/main/banner.svg" alt="Indkrypt hacker banner" />
 </p>
 
 
