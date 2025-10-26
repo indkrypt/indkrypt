@@ -52,7 +52,7 @@
   </g>
 
   <!-- right neon dashboard with animated tiles -->
-  <g transform="translate(920,36)">
+  <g transform="translate(950,36)">
     <rect x="-6" y="-6" width="250" height="190" rx="10" fill="#07131a" opacity="0.48"/>
     <!-- animated tiles -->
     <g>
