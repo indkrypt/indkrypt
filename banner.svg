@@ -124,7 +124,7 @@
   </g>
 
   <!-- right neon dashboard (only static) -->
-  <g transform="translate(999,36)">
+  <g transform="translate(12000,36)">
     <rect x="-6" y="-6" width="250" height="190" rx="10" fill="#07131a" opacity="0.48"/>
     <text x="10" y="170" font-family="monospace" font-size="11" fill="#8bd9c9" opacity="0.72">live: safe / sandbox / in-scope</text>
   </g>
