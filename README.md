@@ -4,12 +4,9 @@
 -->
 
 <p align="center">
-  <img src="banner.svg" alt="Indkrypt hacker banner" />
+  <img src="https://github.com/indkrypt/indkrypt/blob/main/banner.svg" alt="Indkrypt hacker banner" />
 </p>
 
-<p align="center">
-  <img src="badge.svg" alt="Indkrypt badge" />
-</p>
 
 <h1 align="center">▸ INDKRYPT — Bug Bounty & Red Team</h1>
 
