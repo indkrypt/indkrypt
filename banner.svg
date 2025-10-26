@@ -38,10 +38,10 @@
   <!-- center title -->
   <g transform="translate(230,68)">
     <text x="0" y="0" font-family="Fira Code,monospace" font-weight="800" font-size="44" fill="#d9f6ef">
-      INDKRYPT <tspan fill="#00ff9f">|</tspan> Bug Bounty & Red Team
+      INDKRYPT <tspan fill="#00ff9f">|</tspan> Bug Bounty &amp; Red Team
     </text>
     <text x="0" y="46" font-family="Inter,monospace" font-size="18" fill="url(#neon)" opacity="0.95">
-      Recon · Web & API · Infra · Responsible Disclosure
+      Recon · Web &amp; API · Infra · Responsible Disclosure
     </text>
 
     <!-- mini "matrix" stream -->
